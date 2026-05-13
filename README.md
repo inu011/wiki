@@ -1,6 +1,7 @@
+## 備忘録
+
 # 画面上のWikiタブを開いてください
 
-<img width="1918" height="582" alt="スクリーンショット 2026-05-13 154327" src="https://github.com/user-attachments/assets/b16d5cfe-2a5e-4622-b026-3d2fad45e91d" />
+<img src="https://github.com/user-attachments/assets/b16d5cfe-2a5e-4622-b026-3d2fad45e91d" style="max-width: 1918px; width: 100%; height: auto;">
 
 
-## 備忘録
